@@ -1,0 +1,13 @@
+isnull
+categorical
+unique
+
+loc and iloc
+
+df  - normal data
+df1 - setting index
+df2 - contains only 2000 
+df3 - athelete, country, sport, year, gold medal
+df4 - after 200 data's
+df5 - iloc 
+
