@@ -1,0 +1,42 @@
+different kinds of hue
+        a) coolwarm
+        b) husl
+        c) winter_r
+        4) spring
+        5) autumn
+
+
+deep
+deep6
+muted
+muted6
+pastel
+pastel6
+bright
+bright6
+dark
+dark6
+colorblind
+colorblind6
+
+
+
+# different kinds of plots
+
+        a) relplots (relational)
+            1) Sctterplot
+            2) lineplot
+
+        b) distplots (distributions)
+            1) histplot
+            2) kdeplot
+            3) ecdfplot
+            4) rugplot
+        
+        c) catplots (categorical)
+            1) stripplot
+            2) swarmplot
+            3) boxplot
+            4) violinplot
+            5) pointplot
+            6) barplot

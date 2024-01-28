@@ -1,0 +1,38 @@
+
+
+
+If you are looking for general parameters that are commonly used across various Seaborn plotting functions, here are some common parameters:
+
+    data: Specifies the DataFrame or array from which data will be drawn.
+
+    x and y: Variables that specify the data to be plotted on the x and y axes.
+
+    hue: Variable that defines subsets of the data to be plotted with different colors.
+
+    palette: A palette name or a list of colors for mapping the hue variable.
+
+    size: Grouping variable that will produce lines with different widths in some plots.
+
+    style: Grouping variable that will produce points with different markers or lines with different styles.
+
+    markers: Specific marker styles for categorical plots.
+
+    order and hue_order: Order to plot the categorical levels in.
+
+    col and row: Variables that define subsets of the data, which will be drawn on separate facets in a grid.
+
+    col_wrap: Number of axes to be created in the grid when using col and/or row.
+
+    ci: Size of the confidence interval to draw around estimated values.
+
+    estimator: Statistical function to estimate within each categorical bin.
+
+    dodge: When hue nesting is used, whether elements should be shifted along the categorical axis.
+
+    jitter: Amount of jitter (only for stripplot and swarmplot).
+
+    orient: Orientation of the plot (e.g., 'v' for vertical, 'h' for horizontal).
+
+    linewidth and edgecolor: Line width and edge color (for plots like boxplot).
+
+These are just a few examples, and different plotting functions in Seaborn may have additional parameters specific to their functionality. For specific details on parameters, it's recommended to refer to the official Seaborn documentation for each plotting function.
